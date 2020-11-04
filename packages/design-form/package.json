@@ -1,10 +1,10 @@
 {
   "name": "@vas-ilotusland/design-form",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@vas-ilotusland/design-button": "^1.0.2"
+    "@vas-ilotusland/design-button": "^1.0.3"
   },
   "gitHead": "eb1cfe08c385c4c49e1b54376df781df08707a45"
 }
