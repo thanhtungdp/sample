@@ -2,5 +2,6 @@
   "name": "@vas-ilotusland/design-button",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "b6c31b8fd52727ab47e474dd7be8bc957c6b62b4"
 }
