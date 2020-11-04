@@ -1,9 +1,9 @@
 {
   "name": "@vas-ilotusland/design-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@vas-ilotusland/design-button": "^1.0.0"
+    "@vas-ilotusland/design-button": "^1.0.1"
   }
 }
